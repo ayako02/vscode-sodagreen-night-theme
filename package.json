@@ -15,6 +15,13 @@
     "email": "ayakosky@gmail.com",
     "url": "https://github.com/ayako02"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayako02/vscode-sodagreen-night-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/ayako02/vscode-sodagreen-night-theme/issues"
+  },
   "keywords": [
     "theme",
     "green",
