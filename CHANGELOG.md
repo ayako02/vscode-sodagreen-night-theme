@@ -4,6 +4,7 @@ All notable changes to the "sodagreen-dark-theme" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [V0.0.1]
 
-- Initial release
+- The first released of Sodagreen night theme.
+- Added assets including logo and sample images.

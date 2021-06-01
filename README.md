@@ -2,7 +2,7 @@
 
 ### Preview 卖家秀
 
-![Preview]()
+![Preview](https://github.com/ayako02/vscode-sodagreen-night-theme/blob/main/assets/sample.png?raw=true)
 
 ### Introduction
 
