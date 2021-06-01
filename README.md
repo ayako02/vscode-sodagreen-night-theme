@@ -1,4 +1,4 @@
-# VSCode Sodagreen Theme
+# VSCode Sodagreen Night Theme
 
 ### Preview 卖家秀
 
@@ -17,6 +17,12 @@ Feel free to submit any issues or suggestions to my [Github](https://github.com/
 
 Give me stars 🌟🌟🌟🌟🌟 if you like the theme! :D <3
 Your encouragement is always my motivation!
+
+#### The Light Sodagreen
+
+There's a light version of this theme!
+Here's the official link for it: [Sodagreen Theme](https://marketplace.visualstudio.com/items?itemName=ayakoSky.sodagreen-theme)
+Feel free to search `Sodagreen Theme` and download it from the marketplace.
 
 **Happy coding! Cheers!**
 
